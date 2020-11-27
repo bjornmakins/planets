@@ -1,3 +1,6 @@
 Col day o`n mars, lets talk smack
 
 What is now the second line.
+
+This is a line that will be removed.
+
